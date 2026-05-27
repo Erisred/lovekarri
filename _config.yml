@@ -27,6 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: 
 author: Matthew
+url: "https://Erisred.github.io"
+baseurl: "/lovekarri"
 
 # Build settings
 # theme: minima
